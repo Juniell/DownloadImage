@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Download Image Async</string>
+    <string name="download_async">Скачать\n(AsyncTask)</string>
+    <string name="enter_url">Введите url картинки</string>
+    <string name="download_cor">Скачать\n(Coroutine)</string>
+    <string name="download_glide">Скачать\n(Glide)</string>
+</resources>
